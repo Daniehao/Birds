@@ -34,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="PMD" />
@@ -120,7 +120,10 @@
       <updated>1600743771940</updated>
       <workItem from="1600743774564" duration="23111000" />
       <workItem from="1600977579529" duration="51788000" />
-      <workItem from="1601069697614" duration="7142000" />
+      <workItem from="1601069697614" duration="8809000" />
+      <workItem from="1601091500895" duration="456000" />
+      <workItem from="1601243897526" duration="448000" />
+      <workItem from="1601305280333" duration="285000" />
     </task>
     <servers />
   </component>
